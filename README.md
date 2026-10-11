@@ -1,4 +1,4 @@
-# API-POSTMAN-PROJECT
+Manual-API-Testing-Project
 # Manual API Testing Project — Postman
 
 ## Project Overview
